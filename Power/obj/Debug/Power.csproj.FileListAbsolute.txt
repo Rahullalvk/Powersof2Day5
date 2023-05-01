@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Day_3\Power\Power\bin\Debug\Power.exe.config
+C:\Users\Admin\Documents\Day_3\Power\Power\bin\Debug\Power.exe
+C:\Users\Admin\Documents\Day_3\Power\Power\bin\Debug\Power.pdb
+C:\Users\Admin\Documents\Day_3\Power\Power\obj\Debug\Power.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day_3\Power\Power\obj\Debug\Power.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Day_3\Power\Power\obj\Debug\Power.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day_3\Power\Power\obj\Debug\Power.exe
+C:\Users\Admin\Documents\Day_3\Power\Power\obj\Debug\Power.pdb
